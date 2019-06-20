@@ -1,3 +1,3 @@
 # nodejs-redis-pubsub-db
 
-## test insert via subscribe
+## test insert to mysql via subscribe and nodejs
