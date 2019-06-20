@@ -1,0 +1,15 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "keywords": [
+    "pubsub",
+    "redis"
+  ],
+  "author": "omeganear",
+  "dependencies": {
+    "mysql": "^2.17.1",
+    "redis": "^2.8.0"
+  }
+}
